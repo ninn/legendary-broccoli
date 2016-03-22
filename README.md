@@ -1,2 +1,2 @@
 # legendary-broccoli
-FB in C
+Framebuffer in C
